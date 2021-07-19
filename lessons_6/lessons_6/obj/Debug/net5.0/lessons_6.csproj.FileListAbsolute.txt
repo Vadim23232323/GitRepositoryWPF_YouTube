@@ -1,0 +1,16 @@
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\bin\Debug\net5.0\lessons_6.exe
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\bin\Debug\net5.0\lessons_6.deps.json
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\bin\Debug\net5.0\lessons_6.runtimeconfig.json
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\bin\Debug\net5.0\lessons_6.runtimeconfig.dev.json
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\bin\Debug\net5.0\lessons_6.dll
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\bin\Debug\net5.0\ref\lessons_6.dll
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\bin\Debug\net5.0\lessons_6.pdb
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\obj\Debug\net5.0\lessons_6.csprojAssemblyReference.cache
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\obj\Debug\net5.0\lessons_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\obj\Debug\net5.0\lessons_6.AssemblyInfoInputs.cache
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\obj\Debug\net5.0\lessons_6.AssemblyInfo.cs
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\obj\Debug\net5.0\lessons_6.csproj.CoreCompileInputs.cache
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\obj\Debug\net5.0\lessons_6.dll
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\obj\Debug\net5.0\ref\lessons_6.dll
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\obj\Debug\net5.0\lessons_6.pdb
+D:\GitRepositoryWPF_YouTube\lessons_6\lessons_6\obj\Debug\net5.0\lessons_6.genruntimeconfig.cache
